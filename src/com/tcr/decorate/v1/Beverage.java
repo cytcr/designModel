@@ -10,6 +10,13 @@ public abstract class Beverage {
 
     String desc;
 
+    /**
+     *
+     * @author TCR
+     * @email:670830864@qq.com       
+     * @date 2019/10/17 11:21
+     * @param
+    */
     public void getDesc(){
         System.out.println(desc);
     }
